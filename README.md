@@ -8,7 +8,11 @@ This repository provides solutions for protecting cloud platforms from Distribut
 - **Response**: Real-time alerts for system administrators and automated activation of defensive protocols.
 - **Recovery**: Restores cloud services to normal operation with minimal downtime.
 - **Integration with Cloud Services**: Utilizes AWS Shield, Azure DDoS Protection, and Google Cloud Armor to bolster defense strategies.
-- **Hybrid Solutions**: Combines on-premise hardware with cloud resources for broader coverage and flexibility.
+- **Hybrid Solutions**: Combines on-premise hardware with cloud resources for broader coverage and flexibility
+
+![Screenshot 2025-05-14 141430](https://github.com/user-attachments/assets/d45f02a9-ffbe-401b-be5b-c9211cec546f)
+
+![Screenshot 2025-05-14 141646](https://github.com/user-attachments/assets/42422820-9536-49d2-90a7-95e7fd0f3ff8)
 
 ## Files and Usage:
 
