@@ -34,7 +34,7 @@ To run:
 Ensure that you have the necessary libraries installed (like tkinter for the GUI).
 
   ```bash
-   py generate_and_plot_traffic.py
+   py manage_nacl_ip_rules_gui.py
  
 ```
 This will launch a GUI to manage and update IP filtering rules.
