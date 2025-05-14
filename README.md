@@ -23,3 +23,16 @@ This script generates and plots traffic patterns, simulating normal and DDoS att
  ```
 This will generate simulated traffic and plot the patterns for visualization.
 
+3. 'manage_nacl_ip_rules_gui.py'
+This script provides a graphical user interface (GUI) to manage IP rules in a Network Access Control List (NACL) for mitigating DDoS attacks by controlling incoming traffic.
+
+To run:
+Ensure that you have the necessary libraries installed (like tkinter for the GUI).
+
+Execute the script with:
+
+bash
+Copy
+Edit
+python manage_nacl_ip_rules_gui.py
+This will launch a GUI to manage and update IP filtering rules.
