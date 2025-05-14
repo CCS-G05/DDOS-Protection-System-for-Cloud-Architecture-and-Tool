@@ -23,21 +23,18 @@ This script generates and plots traffic patterns, simulating normal and DDoS att
 1. Ensure that the required libraries are installed. You may need to install dependencies like `matplotlib`, `numpy`, `scipy`, etc.
 2. Run the script using:
    ```bash
-   python generate_and_plot_traffic.py
+   py generate_and_plot_traffic.py
  
 This will generate simulated traffic and plot the patterns for visualization.
 
-3. `manage_nacl_ip_rules_gui.py`
+### 2.  `manage_nacl_ip_rules_gui.py`
 This script provides a graphical user interface (GUI) to manage IP rules in a Network Access Control List (NACL) for mitigating DDoS attacks by controlling incoming traffic.
 
 To run:
 Ensure that you have the necessary libraries installed (like tkinter for the GUI).
 
-Execute the script with:
-
-bash
-Copy
-Edit
-python manage_nacl_ip_rules_gui.py
-
+  ```bash
+   py generate_and_plot_traffic.py
+ 
+```
 This will launch a GUI to manage and update IP filtering rules.
